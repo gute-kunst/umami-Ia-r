@@ -27,7 +27,7 @@ cd umami
 yarn install
 ```
 
-### Configure umami
+### Configure umami 
 
 Create an `.env` file with the following
 
